@@ -15,16 +15,16 @@ So, for example if a player has PFRF below 10% we can assume he’s either got t
 * This rate tells us the frequency with which a player plays a hand at any given round in the game when he’s given an opportunity to bet or fold.
 * This rate just says there is no reason to bet if you don’t have a good starting hand unless you want to bluff and if you do have a good starting hand it’s better to play aggressive by raising or betting.  And we already know playing aggressively is more profitable because you have two ways to win; having the best hand or causing your opponents to fold.
 
-!(https://github.com/vinzard11/Poker-Blackjack-Matchmaking/images/Poker_1.png)
+(https://github.com/vinzard11/Poker-Blackjack-Matchmaking/images/Poker_1.png)
 * We can see the correlation between the 2 created parameters and the winning rate.
 
 ### Blackjack
 #### Wstrat parameter
 * It’s a mix of two famous strategies played by most professionals at the game. Precisely, the moves shown in the image below.
-!(https://github.com/vinzard11/Poker-Blackjack-Matchmaking/images/bljk_2.png)
+(https://github.com/vinzard11/Poker-Blackjack-Matchmaking/images/bjk_2.png)
 
 * Interestingly, this has an increasing slope when paired with winning rate as seen in the picture below.
-!(https://github.com/vinzard11/Poker-Blackjack-Matchmaking/images/bljk_1.png) 
+(https://github.com/vinzard11/Poker-Blackjack-Matchmaking/images/bjk_1.png) 
 
 
 
