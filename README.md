@@ -15,6 +15,9 @@ So, for example if a player has PFRF below 10% we can assume he’s either got t
 * This rate tells us the frequency with which a player plays a hand at any given round in the game when he’s given an opportunity to bet or fold.
 * This rate just says there is no reason to bet if you don’t have a good starting hand unless you want to bluff and if you do have a good starting hand it’s better to play aggressive by raising or betting.  And we already know playing aggressively is more profitable because you have two ways to win; having the best hand or causing your opponents to fold.
 
+!(images/Poker_1.png)
+* We can see the co
+
 
 
 
